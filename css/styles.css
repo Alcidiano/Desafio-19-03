@@ -1,0 +1,92 @@
+*{
+    font-family: Helvetica;
+    /* background-color: #ddd;
+    /* margin: 0;
+    padding: 0; */ */
+}
+body{
+    background-color: aquamarine;
+}
+.container{
+    background-color: #fff;
+    max-width: 1100px;
+    padding: 20px 50px;
+    margin: 50px auto;
+    position: relative;
+
+}
+
+.bold{
+    font-weight: bold;
+
+}
+
+.header{
+    text-align: center;
+    font-size: 15px;
+}
+
+
+
+.main-paragraph{
+    font-style: italic;
+}
+
+
+.biography-container{
+    padding: 25px 0;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+}
+
+.biografia-da-banda{
+    background-color: #ddd;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.biografia-da-banda h2{
+    text-align: center;
+}
+
+.img-bold{
+    font-weight: bold;
+    text-align: center
+    
+}
+
+.biografia-da-banda{
+    font-style: italic;
+}
+
+.integrantes{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.historia-da-banda{
+    background-color: silver;
+    max-width: 1100px;
+    padding: 20px 50px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.atualmente{
+    background-color: silver;
+    max-width: 1100px;
+    padding: 20px 50px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.moreinfo-container{
+    text-align: center;
+    border-top: 50px;
+    border-bottom: 50px;
+}
+
+
+
+/* finalizado */
